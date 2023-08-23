@@ -1,4 +1,4 @@
-from main.colors import *
+from libs.colors import *
 import os
 
 hashtag = fr"{c.cyan('[')}{c.yellow('#')}{c.cyan(']')}"
