@@ -29,6 +29,10 @@ Este projeto está licenciado sob a licença [Creative Commons Zero v1.0 Univers
 
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork e enviar pull requests.
 
+## Update logs
+Criado para participar do 1st desafio de cybersegurança da Spacelaxy
+zHenry, me da primeiro lugar pls
+
 ## Contato
 
 Para perguntas ou sugestões, você pode me encontrar no Discord:
